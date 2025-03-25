@@ -178,10 +178,10 @@ const styles = StyleSheet.create({
   image3: {width: 170, height: 240, top: 5},
   image4: {width: 170, height: 240, top: 5},
 
-  icone1:{width: 40, height: 50, top: 610, position: 'absolute'},
-  icone2:{width: 40, height: 40, top: 710, position: 'absolute'},
-  icone3:{width: 40, height: 45, top: 820, position: 'absolute'},
-  icone4:{width: 60, height: 25, top: 940, position: 'absolute'},
+  icone1:{width: 40, height: 50, top: 634, position: 'absolute'},
+  icone2:{width: 40, height: 40, top: 736, position: 'absolute'},
+  icone3:{width: 40, height: 45, top: 844, position: 'absolute'},
+  icone4:{width: 60, height: 25, top: 970, position: 'absolute'},
 
 
  
