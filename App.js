@@ -58,9 +58,9 @@ Imagem5() {
       </Text>
 
       <Text style={ styles.texto1 }>
-        Descrição: A carta Brainstom foi lançada pela primeira vez em	Junho de 1995, na segunda coleção de Magic: The Gathering, Era glacial 
-        na radidade comum, com a arte feita por Christopher Rush, e pelo seu efeito versatil ela cabaou por ser muito utilizada, 
-        oque fez com que ela fosse relaçanda em coleções posteriores com outras feitas por outros artistas
+        Descrição: A carta Brainstom foi lançada pela primeira vez em	Junho de 1995, na segunda coleção de Magic: The Gathering, Era glacial, 
+        na radidade comum, com a arte feita por Christopher Rush. Pelo seu efeito versatil ela cabaou por ser muito utilizada em diferentes deck, 
+        oque fez com que ela fosse relançada em coleções posteriores com artes alternativas feitas por outros artistas.
       </Text>
       
       <Text style={ styles.texto2 }>
@@ -171,12 +171,12 @@ const styles = StyleSheet.create({
   texto5: {fontFamily: 'Inter-Black', borderWidth: 1, padding: 25, display: 'inline-block', borderRadius: 15, top: 10, fontSize: 11},
   texto6: {fontFamily: 'Inter-Black', borderWidth: 1, padding: 25, display: 'inline-block', borderRadius: 15, top: 10, fontSize: 11},
   
-  image: {width: 250, height: 355},  
+  image: {width: 250, height: 355, alignSelf: 'center'},  
   image0: {width: 76, height: 82, top: 349, position: 'absolute', left: 330},
-  image1: {width: 170, height: 237, top: 5},
-  image2: {width: 170, height: 240, top: 4},
-  image3: {width: 170, height: 240, top: 5},
-  image4: {width: 170, height: 240, top: 5},
+  image1: {width: 170, height: 237, top: 5, alignSelf: 'center'},
+  image2: {width: 170, height: 240, top: 4, alignSelf: 'center'},
+  image3: {width: 170, height: 240, top: 5, alignSelf: 'center'},
+  image4: {width: 170, height: 240, top: 5, alignSelf: 'center'},
 
   icone1:{width: 40, height: 50, top: 634, position: 'absolute'},
   icone2:{width: 40, height: 40, top: 736, position: 'absolute'},
